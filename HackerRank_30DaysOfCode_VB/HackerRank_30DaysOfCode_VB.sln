@@ -11,6 +11,8 @@ Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Operators", "Operators\Oper
 EndProject
 Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "IntrotoConditionalStatements", "IntrotoConditionalStatements\IntrotoConditionalStatements.vbproj", "{F49FE0CF-EA43-4A75-B16D-72FBD5F1BC2C}"
 EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Loops", "Loops\Loops.vbproj", "{74C56B29-1AB9-4600-AE25-5E782C527427}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{F49FE0CF-EA43-4A75-B16D-72FBD5F1BC2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F49FE0CF-EA43-4A75-B16D-72FBD5F1BC2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F49FE0CF-EA43-4A75-B16D-72FBD5F1BC2C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{74C56B29-1AB9-4600-AE25-5E782C527427}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74C56B29-1AB9-4600-AE25-5E782C527427}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74C56B29-1AB9-4600-AE25-5E782C527427}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74C56B29-1AB9-4600-AE25-5E782C527427}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
