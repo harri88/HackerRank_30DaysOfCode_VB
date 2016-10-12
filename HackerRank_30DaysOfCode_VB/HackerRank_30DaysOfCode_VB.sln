@@ -7,6 +7,8 @@ Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "HelloWorld", "HelloWorld\He
 EndProject
 Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "DataTypes", "DataTypes\DataTypes.vbproj", "{52D0FF3E-6B79-45FB-9E53-F8CC71DA0235}"
 EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Operators", "Operators\Operators.vbproj", "{ACCE4276-5865-4FFB-AA27-514C91A4001A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{52D0FF3E-6B79-45FB-9E53-F8CC71DA0235}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{52D0FF3E-6B79-45FB-9E53-F8CC71DA0235}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{52D0FF3E-6B79-45FB-9E53-F8CC71DA0235}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ACCE4276-5865-4FFB-AA27-514C91A4001A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACCE4276-5865-4FFB-AA27-514C91A4001A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACCE4276-5865-4FFB-AA27-514C91A4001A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACCE4276-5865-4FFB-AA27-514C91A4001A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
